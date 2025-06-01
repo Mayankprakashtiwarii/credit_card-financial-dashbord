@@ -8,7 +8,8 @@ Credit card financial dashboard using SQL & Power BI:
 * Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
 
-**-- SQL Query to create and import data from csv files:
+
+-- SQL Query to create and import data from csv files:
 
 -- 0. Create a database 
 CREATE DATABASE ccdb;
